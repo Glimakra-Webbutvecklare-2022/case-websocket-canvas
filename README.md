@@ -10,8 +10,9 @@ I det här caset ska ni arbeta koppla ihop det vi har gått igenom med canvas oc
 - Websockets ska möjliggöra en multiplayermiljö där uppkopplad klient laddas in på kartan med en avatar
    - tillståndet av canvasen ska vara samma för alla uppkopplade klienter
 - Varje avatar kan röra sig UPP, NER, VÄNSTER, HÖGER
-- Varje spelare ska ha en och samma backgrundsbild
+- Varje spelare ska ha en och samma sprite image som bakgrundsbild
 - Varje spelare kan se och skriva till en gemensam chatt
+- minst 10 git commits under perioden
 - En `README.md` som beskriver hur man använder applikationen
 
 ## 2. Extra
@@ -23,6 +24,8 @@ Utöver samliga minimum-punkter ska dessutom följade krav vara uppfyllda:
 - det ska finnas väggar på kartan som en avatar inte kan gå igenom
 - man ska kunna skicka emojies (t.ex 😄,❤️, 👍)
 - ett easter egg 🥚
+- visa när spelare ansluter eller lämnar chatten/spelet
+- visa om spelare skriver i chatten "[player] is typing.."
 - Applikationen är publicerad med t.ex Netlify eller Heroku
 
 # Feedback
