@@ -1,16 +1,6 @@
 # Case: Websocket Canvas
 
-I det här caset kan ni arbeta individuellt. 
-
-Ni kan välja mellan tre olika scenarion. I varje scenario ska finnas någon form av 'spelupplevelse - interaktion', där canvas och websockets används.
-
-1. Ett multiplayer canvas spel
-2. En realtids chatt 
-3. En kollaborativ online paint
-
-Applikationen behöver inte vara helt baseras på canvas, utan den kan i delar som du väljer baseras på andra DOM element. 
-
-Ni lämnar in genom en **länk till er publicerade applikation**.
+I det här caset ska ni arbeta koppla ihop det vi har gått igenom med canvas och websocket för att skapa en gather.town-klon. 
 
 # Krav
 
@@ -32,6 +22,7 @@ Utöver samliga minimum-punkter ska dessutom följade krav vara uppfyllda:
 - det ska inte vara möjligt att gå igenom avatarer (collision detection)
 - det ska finnas väggar på kartan som en avatar inte kan gå igenom
 - man ska kunna skicka emojies (t.ex 😄,❤️, 👍)
+- ett easter egg 🥚
 - Applikationen är publicerad med t.ex Netlify eller Heroku
 
 # Feedback
